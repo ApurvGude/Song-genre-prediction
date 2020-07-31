@@ -1,4 +1,4 @@
-# Song-genre-prediction
+# Song Genre Prediction using NLP techniques
 
 Every year, more than one million songs are released over the world.
 
